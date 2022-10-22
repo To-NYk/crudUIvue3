@@ -1,23 +1,18 @@
 # userui-admin
 
-## Project setup
+## Установка
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Компиляция
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Запуск JSON сервера
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+npm start
 ```
 
 ### Customize configuration
