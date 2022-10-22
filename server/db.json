@@ -1,0 +1,97 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "firstname": "Петрова",
+      "middlename": "Оля",
+      "lastname": "Егоровна",
+      "bday": "14.01.1976",
+      "email": "sofiya03121990@gmail.com",
+      "photo": "http://zornet.ru/_fr/90/9806332.jpg",
+      "number": "+7 (971) 250-22-53"
+    },
+    {
+      "id": 2,
+      "firstname": "Соколова",
+      "middlename": "Ксения",
+      "lastname": "Максимовна",
+      "bday": "04.12.1996",
+      "email": "serafim04081987@outlook.com",
+      "photo": "http://zornet.ru/_fr/90/2047384.jpg",
+      "number": "+7 (997) 298-97-23"
+    },
+    {
+      "id": 3,
+      "firstname": "Фролова",
+      "middlename": "Александра",
+      "lastname": "Артёмовна",
+      "bday": "19.11.1990",
+      "email": "valentina26111988@yandex.ru",
+      "photo": "http://zornet.ru/_fr/90/7318654.jpg",
+      "number": "+7 (926) 429-27-54"
+    },
+    {
+      "id": 4,
+      "firstname": "Захарова",
+      "middlename": "Ева",
+      "lastname": "Артёмовна",
+      "bday": "27.04.1993",
+      "email": "katerina04011972@hotmail.com",
+      "photo": "http://zornet.ru/_fr/90/7144278.jpg",
+      "number": "+7 (917) 578-81-69"
+    },
+    {
+      "id": 5,
+      "firstname": "Герасимов",
+      "middlename": "Виктор",
+      "lastname": "Дамирович",
+      "bday": "04.07.1975",
+      "email": "feliks.pogodin@yandex.ru",
+      "photo": "http://zornet.ru/_fr/90/4852868.jpg",
+      "number": "+7 (967) 932-97-15"
+    },
+    {
+      "id": 6,
+      "firstname": "Медведева",
+      "middlename": "Ксения",
+      "lastname": "Олеговна",
+      "bday": "04.06.1994",
+      "email": "innokentiy24@ya.ru",
+      "photo": "http://zornet.ru/_fr/90/9426359.jpg",
+      "number": "010543543534543"
+    },
+    {
+      "firstname": "Мышелов",
+      "middlename": "Антон",
+      "lastname": "Павлович",
+      "bday": "09.02.1991",
+      "email": "anton.kairov@gmail.com",
+      "photo": "http://zornet.ru/_fr/90/5831721.jpg",
+      "number": 79916227857,
+      "id": 7
+    },
+    {
+      "firstname": "Авилова",
+      "middlename": "Лариса",
+      "lastname": "Емельяновна",
+      "bday": "",
+      "email": "",
+      "photo": "http://zornet.ru/_fr/90/3053101.jpg",
+      "number": "",
+      "id": 8
+    },
+    {
+      "firstname": "Авилова",
+      "middlename": "Лариса",
+      "lastname": "Макаровна",
+      "bday": "04.02.1996",
+      "email": "kira35@mail.ru",
+      "photo": "http://zornet.ru/_fr/90/4486511.jpg",
+      "number": 55596565,
+      "id": 9
+    }
+  ],
+  "user": [
+    { "username": "admin", "password": "admin"}
+  ]
+}

@@ -1,0 +1,58 @@
+{
+    "contacts": [
+        {
+            "id": 1,
+            "firstname": "петрова",
+            "middlename": "оля",
+            "lastname": "егоровна",
+            "bday": "14.01.1976",
+            "email": "sofiya03121990@gmail.com",
+            "number": "+7 (971) 250-22-53"
+        },
+        {
+            "id": 2,
+            "firstname": "Соколова",
+            "middlename": "Ксения",
+            "lastname": "Максимовна",
+            "bday": "04.12.1996",
+            "email": "serafim04081987@outlook.com",
+            "number": "+7 (997) 298-97-23"
+        },
+        {
+            "id": 3,
+            "firstname": "Фролова",
+            "middlename": "Александра",
+            "lastname": "Артёмовна",
+            "bday": "19.11.1990",
+            "email": "valentina26111988@yandex.ru",
+            "number": "+7 (926) 429-27-54"
+        },
+        {
+            "id": 4,
+            "firstname": "Захарова",
+            "middlename": "Ева",
+            "lastname": "Артёмовна",
+            "bday": "27.04.1993",
+            "email": "katerina04011972@hotmail.com",
+            "number": "+7 (917) 578-81-69"
+        },
+        {
+            "id": 5,
+            "firstname": "Герасимов",
+            "middlename": "Виктор",
+            "lastname": "Дамирович",
+            "bday": "04.07.1975",
+            "email": "feliks.pogodin@yandex.ru",
+            "number": "+7 (967) 932-97-15"
+        },
+        {
+            "id": 6,
+            "firstname": "Медведева",
+            "middlename": "Ксения",
+            "lastname": "Олеговна",
+            "bday": "04.06.1994",
+            "email": "innokentiy24@ya.ru",
+            "number": null
+        }
+    ]
+}

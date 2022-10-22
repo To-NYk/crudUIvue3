@@ -1,0 +1,64 @@
+{
+    "contacts": [
+        {
+            "id": 1,
+            "contact_firstname": "Петрова",
+            "contact_middlename": "Оля",
+            "contact_lastname": "Егоровна",
+            "contact_bday": "14.01.1976",
+            "contact_email": "sofiya03121990@gmail.com",
+            "contact_photo": "http://zornet.ru/_fr/90/9806332.jpg",
+            "contact_number": "+7 (971) 250-22-53"
+        },
+        {
+            "id": 2,
+            "contact_firstname": "Соколова",
+            "contact_middlename": "Ксения",
+            "contact_lastname": "Максимовна",
+            "contact_bday": "04.12.1996",
+            "contact_email": "serafim04081987@outlook.com",
+            "contact_photo": "http://zornet.ru/_fr/90/2047384.jpg",
+            "contact_number": "+7 (997) 298-97-23"
+        },
+        {
+            "id": 3,
+            "contact_firstname": "Фролова",
+            "contact_middlename": "Александра",
+            "contact_lastname": "Артёмовна",
+            "contact_bday": "19.11.1990",
+            "contact_email": "valentina26111988@yandex.ru",
+            "contact_photo": "http://zornet.ru/_fr/90/7318654.jpg",
+            "contact_number": "+7 (926) 429-27-54"
+        },
+        {
+            "id": 4,
+            "contact_firstname": "Захарова",
+            "contact_middlename": "Ева",
+            "contact_lastname": "Артёмовна",
+            "contact_bday": "27.04.1993",
+            "contact_email": "katerina04011972@hotmail.com",
+            "contact_photo": "http://zornet.ru/_fr/90/7144278.jpg",
+            "contact_number": "+7 (917) 578-81-69"
+        },
+        {
+            "id": 5,
+            "contact_firstname": "Герасимов",
+            "contact_middlename": "Виктор",
+            "contact_lastname": "Дамирович",
+            "contact_bday": "04.07.1975",
+            "contact_email": "feliks.pogodin@yandex.ru",
+            "contact_photo": "http://zornet.ru/_fr/90/4852868.jpg",
+            "contact_number": "+7 (967) 932-97-15"
+        },
+        {
+            "id": 6,
+            "contact_firstname": "Медведева",
+            "contact_middlename": "Ксения",
+            "contact_lastname": "Олеговна",
+            "contact_bday": "04.06.1994",
+            "contact_email": "innokentiy24@ya.ru",
+            "contact_photo": "http://zornet.ru/_fr/90/9426359.jpg",
+            "contact_number": null
+        }
+    ]
+}
